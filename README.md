@@ -43,7 +43,9 @@ pip install transformers==4.52.4
 ```
 It is recommended to use separate Python virtual environments for different models to avoid version conflicts.
 
-3. **Execution Instructions**  
+---
+
+## Execution Instructions  
 
 Run scripts in the order indicated by their numeric prefixes, for example:
 
@@ -92,7 +94,7 @@ SUP_model_project/
     ├── 3.2_...py
     └── ...
 ```
-All experiments were run on NVIDIA H200 GPUs. 
+All experiments were run on 4 NVIDIA H200 GPUs. 
 
 ## Team Members
 Yashu Kang - Supcon
@@ -100,5 +102,6 @@ Yashu Kang - Supcon
 Zhehao Shen - Supcon & Soochow University - [@Spaceman-ZH-Shen](https://github.com/Spaceman-ZH-Shen) - 20234246028@stu.suda.edu.cn
 
 Yuzhe Cen - Supcon & Columbia University -[@MiCENzz](https://github.com/MiCENzz) - yc4494@columbia.edu
+
 
 
