@@ -25,8 +25,7 @@ The project contains the following pretrained models. You can place the download
 ---
 
 ## Environment Setup
-
-1. **Set PYTHONPATH**  
+  
 Before running any code, set the environment variable to define the project path:  
 ```
 export PYTHONPATH=/path/to/SUP_model_project
@@ -102,6 +101,7 @@ Yashu Kang - Supcon
 Zhehao Shen - Supcon & Soochow University - [@Spaceman-ZH-Shen](https://github.com/Spaceman-ZH-Shen) - 20234246028@stu.suda.edu.cn
 
 Yuzhe Cen - Supcon & Columbia University -[@MiCENzz](https://github.com/MiCENzz) - yc4494@columbia.edu
+
 
 
 
