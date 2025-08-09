@@ -96,11 +96,12 @@ SUP_model_project/
 All experiments were run on 4 NVIDIA H200 GPUs. 
 
 ## Team Members
-Yashu Kang - Supcon
+Yashu Kang - Zhejiang Supcon Information Technology & Zhejiang University of Technology - kangyashu@supconit.com
 
-Zhehao Shen - Supcon & Soochow University - [@Spaceman-ZH-Shen](https://github.com/Spaceman-ZH-Shen) - 20234246028@stu.suda.edu.cn
+Zhehao Shen - Zhejiang Supcon Information Technology & Soochow University - [@Spaceman-ZH-Shen](https://github.com/Spaceman-ZH-Shen) - 20234246028@stu.suda.edu.cn
 
-Yuzhe Cen - Supcon & Columbia University -[@MiCENzz](https://github.com/MiCENzz) - yc4494@columbia.edu
+Yuzhe Cen - Zhejiang Supcon Information Technology & Columbia University -[@MiCENzz](https://github.com/MiCENzz) - yc4494@columbia.edu
+
 
 
 
